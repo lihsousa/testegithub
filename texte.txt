@@ -1,1 +1,2 @@
-Primeiro texte para repositorio remoto.
+Primeiro teste para repositorio remoto.
+Segundo teste para o repositorio remoto.
